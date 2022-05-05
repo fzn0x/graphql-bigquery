@@ -1,0 +1,12 @@
+{
+  "name": "graphql-bigquery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/bigquery": "^5.12.0",
+    "apollo-server-cloud-functions": "^3.6.7",
+    "graphql": "^16.4.0",
+    "graphql-type-json": "^0.3.2"
+  }
+}
